@@ -3,6 +3,7 @@
 - Trò chơi chơi rất đơn giản, bạn chỉ cần gõ chính xác các chữ cái rơi xuống màn hình để được điểm.
 - Nếu bạn gõ sai chữ nào thì sẽ bị mất 1 tim.
 - Nếu bạn gõ đúng chữ nào thì sẽ được cộng 1 điểm.
+- Demo Game: https://int04.github.io/TypingGameDemo/
 
 
 
